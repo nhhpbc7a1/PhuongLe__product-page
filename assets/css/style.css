@@ -13,12 +13,12 @@
 
 @font-face {
     font-family: "round-pop";
-    src: url('/assets/font/gomarice_round_pop.ttf') format("opentype");
+    src: url('https://nhhpbc7a1.github.io/PhuongLe__product-page/assets/font/gomarice_round_pop.ttf') format("opentype");
 }
 
 @font-face {
     font-family: "my-text-font";
-    src: url('/assets/font/Quesha-gndR.ttf');
+    src: url('https://nhhpbc7a1.github.io/PhuongLe__product-page/assets/font/Quesha-gndR.ttf');
 }
 
 .app {
